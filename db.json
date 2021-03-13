@@ -1,0 +1,10 @@
+{
+    "animals":[
+        {
+            "id": 1,
+            "name":"Lion",
+            "description":"Lion is a big cat. Lion like meat.",
+            "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kinonews.ru%2Fnews_89529%2F&psig=AOvVaw0RXG-j_-iypjPQa4NlJaku&ust=1615719380048000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjD6ImOre8CFQAAAAAdAAAAABAD"
+        }
+    ]
+}
