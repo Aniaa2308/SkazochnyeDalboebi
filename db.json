@@ -12,6 +12,12 @@
             "description":"Govoryat cto eto umnaya obezyana, no eto losh.",
             "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fmotor.ru%2Fnews%2Fgraham-22-07-2016.htm&psig=AOvVaw1LTh7DaauXSMRFkohxPbEh&ust=1615720588599000&source=images&cd=vfe&ved=0CAkQjhxqFwoTCKi0-bSSre8CFQAAAAAdAAAAABAD"
         },
+        { 
+            "id": 3,
+            "name":"White Rhino",
+            "description":"The white rhino is the largest member of the rhino family."
+            "img":"https://commons.wikimedia.org/wiki/File:Rhino_(234581759).jpeg?uselang=ru"
+        },
         {
         "id": 5,
         "name":"giraf",
