@@ -30,6 +30,12 @@
             "name":"cat",
             "description":" — домашнее животное, одно из наиболее популярных[1] (наряду с собакой) «животных-компаньонов»",
             "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fria.ru%2F20191113%2F1560867458.html&psig=AOvVaw2kqCcIEvLUPa3wFg6czuP7&ust=1615721078510000&source=images&cd=vfe&ved=0CAkQjhxqFwoTCJjWv6eUre8CFQAAAAAdAAAAABAD"
+        },
+        {
+            "id":6,
+            "name":"Erzhan",
+            "description":"Typoe sozdanie",
+            "img":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.files.bbci.co.uk%2FE9DF%2Fproduction%2F_96317895_gettyimages-164067218.jpg&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fscience-environment-40131242&tbnid=LTwdl0rbnz_kTM&vet=12ahUKEwj0nK3J2b7vAhUIKRQKHQDzCCUQMygCegUIARCuAQ..i&docid=wse0RPSjY3_gXM&w=976&h=549&q=Monkey&ved=2ahUKEwj0nK3J2b7vAhUIKRQKHQDzCCUQMygCegUIARCuAQ"
         }
     ]
 }
