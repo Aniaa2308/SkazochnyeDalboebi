@@ -41,8 +41,18 @@
     "users":[
         {
             "id":1,
-            "login":"Erzhan",
-            "password":"Yavokne"
+            "login":"Artem",
+            "password":"Skazka"
+        },
+        {
+            "id":2,
+            "login":"Liza",
+            "password":"and"
+        },
+        {
+            "id":3,
+            "login":"Ania",
+            "password":"people"
         }
     ]
 }
