@@ -37,5 +37,12 @@
             "description":"Typoe sozdanie",
             "img":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.files.bbci.co.uk%2FE9DF%2Fproduction%2F_96317895_gettyimages-164067218.jpg&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fscience-environment-40131242&tbnid=LTwdl0rbnz_kTM&vet=12ahUKEwj0nK3J2b7vAhUIKRQKHQDzCCUQMygCegUIARCuAQ..i&docid=wse0RPSjY3_gXM&w=976&h=549&q=Monkey&ved=2ahUKEwj0nK3J2b7vAhUIKRQKHQDzCCUQMygCegUIARCuAQ"
         }
+    ],
+    "users":[
+        {
+            "id":1,
+            "login":"Erzhan",
+            "password":"Yavokne"
+        }
     ]
 }
