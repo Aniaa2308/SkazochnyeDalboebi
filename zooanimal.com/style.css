@@ -4,3 +4,13 @@ html{
 .header{
     align-items: flex-start;
 }
+
+#auth{
+    width: 55px;
+    height: 25px;
+    background-color: rgb(4, 124, 194);
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 10px;
+}
