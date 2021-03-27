@@ -42,17 +42,20 @@
         {
             "id":1,
             "login":"Artem",
-            "password":"Skazka"
+            "password":"Skazka",
+            "ava":"https://download-cs.net/steam/download_avatar/3412"
         },
         {
             "id":2,
             "login":"Liza",
-            "password":"and"
+            "password":"and",
+            "ava":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fbipbap.ru%2Fkrasivye-kartinki%2Fkrasivye-avatarki-dlya-kartinki-35-foto.html&psig=AOvVaw10xlmuefeR8W4DgZg7icqV&ust=1616930466910000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDb7cSt0O8CFQAAAAAdAAAAABAJ"
         },
         {
             "id":3,
             "login":"Ania",
-            "password":"people"
+            "password":"people",
+            "ava":"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fbest_avatar_ru%2Fstatus%2F450831575413174272&psig=AOvVaw10xlmuefeR8W4DgZg7icqV&ust=1616930466910000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDb7cSt0O8CFQAAAAAdAAAAABAP"
         }
     ]
 }
